@@ -4,15 +4,17 @@
  * Lab 3 - Interfaces
  * Created: 12/7/2016
  */
-
 import java.util.Scanner;
 
+/**
+ * A simple example driver class for the Bill of Materials generator lab.
+ *
+ * This example describes the materials needed to build a cube by bolting
+ * together six pieces of sheet metal.
+ */
 public class MachineDriver {
     /**
-     * A simple example driver class for the Bill of Materials generator lab.
-     *
-     * This example describes the materials needed to build a cube by bolting
-     * together six pieces of sheet metal.
+     * The apps entry point.
      *
      * @param args ignored
      */
